@@ -16,7 +16,7 @@ I will create one R script called run\_analysis.R that does the following.
 
 My submission should include:
 
--   a tidy data set as described below, (tidy\_data.csv)
+-   a tidy data set as described below, (tidy\_data.txt)
 -   a link to a Github repository with your script for performing the analysis, and
 -   a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data called CodeBook.md.
 -   a README.md in the repo with my scripts.
