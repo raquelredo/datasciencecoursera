@@ -93,5 +93,5 @@ names(all_2)
 # with the average of each variable for each activity and each subject.
 library(dplyr)
 tidy_data <- all_2 %>% aggregate(c(activity, subject), mean)
-write.table(tidy_data, "tidy_data.csv", row.name=FALSE)
+write.table(tidy_data, "tidy_data.txt",row.name=FALSE)
 
